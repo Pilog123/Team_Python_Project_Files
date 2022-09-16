@@ -22,6 +22,7 @@ from fastapi.encoders import jsonable_encoder
 # warnings.filterwarnings('ignore')
 
 
+
 allocationApp = FastAPI(title="Class/UNSPSC Allocation",
                         description="""This project prepares proper Object/Class data
                          in qualifying the data relies on user level.""", version="1.0")
