@@ -1,0 +1,65 @@
+anyio @ file:///D:/bld/anyio_1641898219811/work/dist
+argcomplete @ file:///home/conda/feedstock_root/build_artifacts/argcomplete_1641290081297/work
+asgiref @ file:///home/conda/feedstock_root/build_artifacts/asgiref_1642912811357/work
+backports.zoneinfo @ file:///D:/bld/backports.zoneinfo_1629669834940/work
+beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1631087867185/work
+certifi==2020.6.20
+cffi @ file:///D:/bld/cffi_1636046293990/work
+chardet @ file:///D:/bld/chardet_1635815015676/work
+click @ file:///D:/bld/click_1635822830533/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+compressed-rtf @ file:///home/conda/feedstock_root/build_artifacts/compressed-rtf_1594407552836/work
+cryptography @ file:///D:/bld/cryptography_1639699508385/work
+cx-Oracle @ file:///C:/ci/cx_oracle_1600355157198/work
+docx2pdf==0.1.8
+docx2txt==0.8
+ebcdic @ file:///home/conda/feedstock_root/build_artifacts/ebcdic_1621162493973/work/ebcdic
+EbookLib==0.17
+et-xmlfile==1.0.1
+extract-msg @ file:///home/conda/feedstock_root/build_artifacts/msg-extractor_1642666477405/work
+fastapi @ file:///home/conda/feedstock_root/build_artifacts/fastapi_1642991510114/work
+h11 @ file:///home/conda/feedstock_root/build_artifacts/h11_1609518832927/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
+IMAPClient @ file:///home/conda/feedstock_root/build_artifacts/imapclient_1622406649536/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1642514138647/work
+jdcal==1.4.1
+jproperties @ file:///home/conda/feedstock_root/build_artifacts/jproperties_1628725005108/work
+kaleido==0.2.1
+lxml @ file:///D:/bld/lxml_1639527265985/work
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+numpy @ file:///C:/ci/numpy_and_numpy_base_1634106873763/work
+olefile==0.46
+openpyxl @ file:///tmp/build/80754af9/openpyxl_1598113097404/work
+pandas @ file:///C:/ci/pandas_1602083338010/work
+pdfminer.six @ file:///home/conda/feedstock_root/build_artifacts/pdfminer.six_1634369700996/work
+pdftotext @ file:///D:/bld/pdftotext_1642512948408/work
+Pillow @ file:///C:/ci/pillow_1602770972588/work
+plotly==5.5.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pydantic @ file:///D:/bld/pydantic_1641053290854/work
+PyPDF2==1.26.0
+python-dateutil==2.8.1
+python-docx==0.8.11
+python-multipart==0.0.5
+python-pptx @ file:///home/conda/feedstock_root/build_artifacts/python-pptx_1632192452181/work
+pytz==2020.1
+pytz-deprecation-shim @ file:///D:/bld/pytz-deprecation-shim_1637074633140/work
+pywin32==225
+six==1.15.0
+sniffio @ file:///D:/bld/sniffio_1635844809276/work
+soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1638550740809/work
+SpeechRecognition @ file:///home/conda/feedstock_root/build_artifacts/speechrecognition_1639389450396/work
+starlette @ file:///home/conda/feedstock_root/build_artifacts/starlette-recipe_1641778727195/work
+tenacity==8.0.1
+textract @ file:///home/conda/feedstock_root/build_artifacts/textract_1629603265377/work
+tqdm==4.62.3
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1638334978229/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1635187324762/work
+tzlocal @ file:///D:/bld/tzlocal_1637088375003/work
+uvicorn @ file:///D:/bld/uvicorn-split_1642837488929/work
+wincertstore==0.2
+xlrd==1.2.0
+XlsxWriter @ file:///home/conda/feedstock_root/build_artifacts/xlsxwriter_1635765417798/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1641731510635/work
